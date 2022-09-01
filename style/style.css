@@ -39,6 +39,10 @@ body {
 }
 
 .date {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 1%;
     font-size: 20px;
     font-weight: bold;
     text-align: center;
